@@ -1,0 +1,15 @@
+List Interface
+1. Array list
+2. Linked List
+3.Vector
+
+1.Array List
+1.1 Is faster but not thread safe
+1.2 does not maintain order of element inside the array list.
+
+2 linked List
+2.1 Is maintain the insertion order of each element.
+2.2 is implemented  by node base algorithm.
+
+3. Vector
+3.1 Is thread safe.

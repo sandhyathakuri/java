@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6a7e43b-d648-4b81-8182-559fbf84d22f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/FileIO/i/o/File/Append_File.java" />
+        <option value="$PROJECT_DIR$/src/FileIO/i/o/File/ReadOnly.java" />
+        <option value="$PROJECT_DIR$/tesFileSix.txt" />
+        <option value="$PROJECT_DIR$/src/FileIO/i/o/File/ReadFile_String.java" />
+        <option value="$PROJECT_DIR$/testFileThree.txt" />
+        <option value="$PROJECT_DIR$/src/FileIO/i/o/File/LineByLineRead.java" />
+        <option value="$PROJECT_DIR$/src/Collections/AboutArray/AllAbout_Array" />
+        <option value="$PROJECT_DIR$/src/Collections/AboutArray/InttroToArray.java" />
+        <option value="$PROJECT_DIR$/src/Collections/AboutArray/Copy_CloneArray.java" />
+        <option value="$PROJECT_DIR$/src/Collections/AboutArray/sortedArray.java" />
+        <option value="$PROJECT_DIR$/src/Collections/AboutArray/Test1.java" />
+        <option value="$PROJECT_DIR$/src/Collections/AboutArray/IndexValueOfArray.java" />
+        <option value="$PROJECT_DIR$/src/Collections/AboutArray/MaxMin.java" />
+        <option value="$PROJECT_DIR$/src/Collections/AboutArray/DuplicateArray.java" />
+        <option value="$PROJECT_DIR$/src/Collections/Collection_Interface/List_Interface/List_Intro" />
+        <option value="$PROJECT_DIR$/src/Collections/Collection_Interface/List_Interface/Array_List/Intro_ArrayList.java" />
+        <option value="$PROJECT_DIR$/src/Collections/Collection_Interface/List_Interface/Array_List/All_About_List.java" />
+        <option value="$PROJECT_DIR$/src/Collections/Collection_Interface/List_Interface/Array_List/Employee.java" />
+        <option value="$PROJECT_DIR$/src/Collections/Collection_Interface/List_Interface/Array_List/ArrayList_UsingPojo.java" />
+        <option value="$PROJECT_DIR$/src/Collections/Collection_Interface/List_Interface/Array_List/PrintListUsingLOOP.java" />
+        <option value="$PROJECT_DIR$/src/Collections/Map_Interface/MapAndListClass.java" />
+        <option value="$PROJECT_DIR$/src/Collections/Map_Interface/SortingOfKeys.java" />
+        <option value="$PROJECT_DIR$/src/Collections/Map_Interface/LinkedHshMap_intro.java" />
+        <option value="$PROJECT_DIR$/src/Collections/Map_Interface/test/codetest2.java" />
+        <option value="$PROJECT_DIR$/src/Collections/Map_Interface/test/Codetest1.java" />
+        <option value="$PROJECT_DIR$/src/Collections/Map_Interface/person.java" />
+        <option value="$PROJECT_DIR$/src/Collections/Map_Interface/test/ReadMapWithPOJO.java" />
+        <option value="$PROJECT_DIR$/src/Collections/Map_Interface/test/codetest3.java" />
+        <option value="$PROJECT_DIR$/src/Java_Feature/LambdaExpression/Intro_Lamda.java" />
+        <option value="$PROJECT_DIR$/src/Java_Feature/LambdaExpression/LambdaWithNoParameter.java" />
+        <option value="$PROJECT_DIR$/src/Java_Feature/LambdaExpression/CalculateMultipleImpl.java" />
+        <option value="$PROJECT_DIR$/src/Java_Feature/LambdaExpression/LoopaWithLambda.java" />
+        <option value="$PROJECT_DIR$/src/Java_Feature/Recursive_Lambda.java" />
+        <option value="$PROJECT_DIR$/src/Java_Feature/LambdaExpression/LambdaWithList.java" />
+        <option value="$PROJECT_DIR$/src/Java_Feature/MethodRefrences/MthodExp_Demo.java" />
+        <option value="$PROJECT_DIR$/src/Java_Feature/MethodRefrences/MethodRefStatic.java" />
+        <option value="$PROJECT_DIR$/src/Java_Feature/MethodRefrences/MethodRefWithArray.java" />
+        <option value="$PROJECT_DIR$/src/Java_Feature/MethodRefrences/MethodRef_Constructor.java" />
+        <option value="$PROJECT_DIR$/src/Java_Feature/OptionalClass/Intro_OpticalClass.java" />
+        <option value="$PROJECT_DIR$/src/Java_Feature/OptionalClass/OptionalClassWithMethods.java" />
+        <option value="$PROJECT_DIR$/src/Java_Feature/StreamAPI/BeforeStream.java" />
+        <option value="$PROJECT_DIR$/src/Java_Feature/StreamAPI/CreateStream.java" />
+        <option value="$PROJECT_DIR$/src/Java_Feature/StreamAPI/StreamWithCollection.java" />
+        <option value="$PROJECT_DIR$/src/Java_Feature/StreamAPI/StreamWithPOJO.java" />
+        <option value="$PROJECT_DIR$/src/DessignPattern/CreationalPatterns/Singleton/IntroOfSingleton.java" />
+        <option value="$PROJECT_DIR$/src/DessignPattern/CreationalPatterns/Singleton/SingletonInAction.java" />
+        <option value="$PROJECT_DIR$/src/DessignPattern/CreationalPatterns/Singleton/SingletonWithDoubleCheck.java" />
+        <option value="$PROJECT_DIR$/src/DessignPattern/CreationalPatterns/Prototype/Main.java" />
+        <option value="$PROJECT_DIR$/src/DessignPattern/CreationalPatterns/Prototype/TestProtoType.java" />
+        <option value="$PROJECT_DIR$/src/DessignPattern/StructuralPatterns/Adapter/VideoPlayer.java" />
+        <option value="$PROJECT_DIR$/src/DessignPattern/StructuralPatterns/Adapter/AdapterDEMO.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="15" />
+    <option name="y" value="25" />
+    <option name="width" value="1640" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java_Class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Class" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Class" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Class" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="Collection_Interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Class" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="Map_Interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Class" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DessignPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Class" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DessignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="StructuralPatterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="DessignPattern.StructuralPatterns.Adapter" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="DessignPattern.StructuralPatterns.Adapter" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestProtoType">
+    <configuration name="IntroOfSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DessignPattern.CreationalPatterns.Singleton.IntroOfSingleton" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DessignPattern.CreationalPatterns.Singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DessignPattern.CreationalPatterns.Prototype.Main" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DessignPattern.CreationalPatterns.Prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonInAction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DessignPattern.CreationalPatterns.Singleton.SingletonInAction" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DessignPattern.CreationalPatterns.Singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProtoType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DessignPattern.CreationalPatterns.Prototype.TestProtoType" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DessignPattern.CreationalPatterns.Prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DessignPattern.CreationalPatterns.Singleton.number" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DessignPattern.CreationalPatterns.Singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.IntroOfSingleton" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SingletonInAction" />
+      <item itemvalue="Application.TestProtoType" />
+      <item itemvalue="Application.number" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestProtoType" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.number" />
+        <item itemvalue="Application.SingletonInAction" />
+        <item itemvalue="Application.IntroOfSingleton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6a7e43b-d648-4b81-8182-559fbf84d22f" name="Default Changelist" comment="" />
+      <created>1557857866393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557857866393</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="12" y="20" width="1312" height="824" extended-state="0" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2403698" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.35104895" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.2951049" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3297587" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Assign/AssignFive.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Collections/AboutArray/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Collection_Interface/List_Interface/Array_List/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+          <folding>
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#1012#1013#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+            <element signature="e#1139#1140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Collection_Interface/List_Interface/Array_List/All_About_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#247#255#0" expanded="true" />
+            <element signature="e#769#777#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Collection_Interface/List_Interface/Array_List/Intro_ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#228#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Collection_Interface/List_Interface/Array_List/PrintListUsingLOOP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Collection_Interface/List_Interface/Array_List/ArrayList_UsingPojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/AboutArray/DuplicateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/AboutArray/MaxMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/AboutArray/IndexValueOfArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Map_Interface/MapAndListClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Map_Interface/LinkedHshMap_intro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="146" column="11" selection-start-line="146" selection-start-column="11" selection-end-line="146" selection-end-column="11" />
+          <folding>
+            <element signature="e#5786#5787#0" expanded="true" />
+            <element signature="e#5819#5820#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Map_Interface/test/codetest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Map_Interface/SortingOfKeys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="7" column="55" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Map_Interface/test/Codetest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Map_Interface/test/ReadMapWithPOJO.java" />
+    <entry file="file://$PROJECT_DIR$/src/Collections/Map_Interface/person.java" />
+    <entry file="file://$PROJECT_DIR$/src/Collections/Map_Interface/test/codetest3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/collection_txtfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Collection_Interface/CollectionIntro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collections/Collection_Interface/List_Interface/List_Intro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/java_feature.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/LambdaExpression/Intro_Lamda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/LambdaExpression/LambdaWithNoParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/LambdaExpression/CalculateMultipleImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/LambdaExpression/LoopaWithLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/LambdaExpression/LambdaWithList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/Recursive_Lambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/MethodRefrences/MethodRefStatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/MethodRefrences/MthodExp_Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/MethodRefrences/MethodRef_Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/OptionalClass/Intro_OpticalClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/OptionalClass/OptionalClassWithMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/StreamAPI/BeforeStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/StreamAPI/StreamWithPOJO.java" />
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/StreamAPI/CreateStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/StreamAPI/StreamWithCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="78" lean-forward="true" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Feature/MethodRefrences/MethodRefWithArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DessignPattern/DessignPattern.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DessignPattern/CreationalPatterns/creationalpattern.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DessignPattern/CreationalPatterns/Prototype/contract.java" />
+    <entry file="file://$PROJECT_DIR$/src/DessignPattern/CreationalPatterns/Prototype/model.java" />
+    <entry file="file://$PROJECT_DIR$/src/DessignPattern/CreationalPatterns/Prototype/view.java" />
+    <entry file="file://$PROJECT_DIR$/src/DessignPattern/CreationalPatterns/Prototype/TestProtoType.java" />
+    <entry file="file://$PROJECT_DIR$/src/DessignPattern/StructuralPatterns/Adapter/VideoPlayer.java" />
+    <entry file="file://$PROJECT_DIR$/src/DessignPattern/StructuralPatterns/Adapter/AdapterDEMO.java" />
+    <entry file="file://$PROJECT_DIR$/src/DessignPattern/StructuralPatterns/structuralPatterns.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DessignPattern/CreationalPatterns/Prototype/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+          <folding>
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1043#1044#0" expanded="true" />
+            <element signature="e#1087#1088#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+            <element signature="e#1220#1221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DessignPattern/CreationalPatterns/Singleton/IntroOfSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DessignPattern/CreationalPatterns/Singleton/SingletonInAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="46" lean-forward="true" selection-start-column="46" selection-end-column="46" />
+          <folding>
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DessignPattern/CreationalPatterns/Singleton/SingletonWithDoubleCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="39" column="51" lean-forward="true" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+          <folding>
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HelloWorld</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
